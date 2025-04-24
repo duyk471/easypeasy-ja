@@ -1,7 +1,6 @@
-# easypeasy-ja
-Japanese translation for EasyPeasy (https://easypeasymethod.org/)
+# 「EasyPeasy」日本語版
 
-日本語の翻訳（https://easypeasymethod.org/）
+「EasyPeasy」の日本語訳 (https://easypeasymethod.org/)
 
 ## 『EasyPeasyメソッド』紹介文
 
