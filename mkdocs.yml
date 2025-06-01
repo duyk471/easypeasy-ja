@@ -1,0 +1,93 @@
+site_name: 簡単にポルノをやめる方法
+site_description: 「EasyPeasy」の日本語訳
+site_author: negibouzu432 & duykhanh471
+repo_name: Open a pull request
+repo_url: https://github.com/duyk471/easypeasy-ja
+
+nav:
+  - 'index.md'
+  - '1.md'
+  - '2.md'
+  - '3.md'
+  - '4.md'
+  - '5.md'
+  - '6.md'
+  - '7.md'
+  - '8.md'
+  - '9.md'
+  - '10.md'
+  - '11.md'
+  - '12.md'
+  - '13.md'
+  - '14.md'
+  - '15.md'
+  - '16.md'
+  - '17.md'
+  - '18.md'
+  - '19.md'
+  - '20.md'
+  - '21.md'
+  - '22.md'
+  - '23.md'
+  - '24.md'
+  - '25.md'
+  - '26.md'
+  - '27.md'
+  - '28.md'
+  - '29.md'
+  - '30.md'
+  - '31.md'
+  - '32.md'
+  - '33.md'
+  - 'resources.md'
+
+
+theme:
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+  name: material
+
+plugins:
+  - search
+  - open-in-new-tab
+
+markdown_extensions:
+  - meta
+  - admonition
+  - attr_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+      
+extra:
+  generator: false
