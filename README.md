@@ -54,4 +54,4 @@
 - [第３１章](docs/31.md)
 - [第３２章](docs/32.md)
 - [第３３章](docs/33.md)
-- [リソース](resources.md)
+- [リソース](docs/resources.md)
